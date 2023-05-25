@@ -1,0 +1,14 @@
+{
+    "admin@example.com": {
+        "FullName": "1",
+        "PhoneNumber": "2",
+        "Address": "jankipura",
+        "Password": "123"
+    },
+    "eternal@gmail.com": {
+        "FullName": "shashwat",
+        "PhoneNumber": "123",
+        "Address": "jankipuram",
+        "Password": "123"
+    }
+}
